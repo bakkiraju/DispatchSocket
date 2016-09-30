@@ -1,4 +1,4 @@
-# DispatchSocket
+# DispatchSocket : Using dispatch_io to communicate asynchrnously over socket
 
 
 #Creation of server and client sockets: 
